@@ -25,7 +25,7 @@ This repository contains the metadata, files and scripts for running multiple an
 - [iSNV analysis](https://github.com/spyros-lytras/hantavirus_molevo/tree/main/isnv_analysis)
     -From SRA, get bam files
       PP_006XDHK.5, BioSample ID SAMN60423882;
-      PP_006XDJH.5, NOT on SRA yet
+      PP_006XDJH.5, BioSample ID SAMN60696784
 
     ```bash
     prefetch SRR38840885
