@@ -3,26 +3,26 @@ This repository contains the metadata, files and scripts for running multiple an
 
 ## Contents
 
-- [Metadata](https://github.com/charu3618/Hantavirus-clockrate/tree/main/metadata): Contains curated metadata for samples used for the analysis
+- [Metadata](https://github.com/spyros-lytras/hantavirus_molevo/tree/main/metadata): Contains curated metadata for samples used for the analysis
     - Contains metadata for S, M and L segments
     - Contains matched samples across all segments
-- [ancestral reconstruction](https://github.com/charu3618/Hantavirus-clockrate/tree/main/ancestral%20reconstruction): Contains files and [scripts](https://github.com/charu3618/Hantavirus-clockrate/tree/main/ancestral%20reconstruction/scripts) for running ancestral reconstruction using IQ-TREE
-    - [Alignments](https://github.com/charu3618/Hantavirus-clockrate/tree/main/ancestral%20reconstruction/curated_alignments) and [rooted trees](https://github.com/charu3618/Hantavirus-clockrate/tree/main/ancestral%20reconstruction/rooted%20trees) were used to reconstruct ancestral sequences. Command used:
+- [ancestral reconstruction](https://github.com/spyros-lytras/hantavirus_molevo/tree/main/ancestral%20reconstruction): Contains files and [scripts](https://github.com/spyros-lytras/hantavirus_molevo/tree/main/ancestral%20reconstruction/scripts) for running ancestral reconstruction using IQ-TREE
+    - [Alignments](https://github.com/spyros-lytras/hantavirus_molevo/tree/main/codon_alignments) and [rooted trees](https://github.com/spyros-lytras/hantavirus_molevo/tree/main/phylogenies) were used to reconstruct ancestral sequences. Command used:
       
       ```bash
       iqtree2 -s ./sequence.fasta -te ./rooted_tree.nwk -m UNREST -asr
       ```
-    - [Output files](https://github.com/charu3618/Hantavirus-clockrate/tree/main/ancestral%20reconstruction/iqtree_output) can be used to generate [reconstructed ancestor sequences](https://github.com/charu3618/Hantavirus-clockrate/tree/main/ancestral%20reconstruction/ancestral_sequences) using this [script](https://github.com/charu3618/Hantavirus-clockrate/tree/main/ancestral%20reconstruction/scripts)
-    - These reconstructed sequences are aligned against reference sequence to get [aligned ancestral sequences](https://github.com/charu3618/Hantavirus-clockrate/tree/main/ancestral%20reconstruction/ancestral_sequences_aligned)
-    - The [script](https://github.com/charu3618/Hantavirus-clockrate/tree/main/ancestral%20reconstruction/scripts) gives the final list of [mutations](https://github.com/charu3618/Hantavirus-clockrate/tree/main/ancestral%20reconstruction/mutations%20list)
-- [PoW](https://github.com/charu3618/Hantavirus-clockrate/tree/main/PoW): Contains files and [scripts](https://github.com/charu3618/Hantavirus-clockrate/tree/main/PoW/scripts) for running the PoW model
-    - [Rate posterior distributions](https://github.com/charu3618/Hantavirus-clockrate/tree/main/PoW/Rate_posterior_distributions): For getting posteriors of clockRate
-    - [Ultrametric trees](https://github.com/charu3618/Hantavirus-clockrate/tree/main/PoW/ultrametric_trees)
+    - [Output files](https://github.com/spyros-lytras/hantavirus_molevo/tree/main/ancestral%20reconstruction/iqtree_output) can be used to generate [reconstructed ancestor sequences](https://github.com/spyros-lytras/hantavirus_molevo/tree/main/ancestral%20reconstruction/ancestral_sequences) using this [script](https://github.com/spyros-lytras/hantavirus_molevo/tree/main/ancestral%20reconstruction/scripts)
+    - These reconstructed sequences are aligned against reference sequence to get [aligned ancestral sequences](https://github.com/spyros-lytras/hantavirus_molevo/tree/main/ancestral%20reconstruction/ancestral_sequences_aligned)
+    - The [script](https://github.com/spyros-lytras/hantavirus_molevo/tree/main/ancestral%20reconstruction/scripts) gives the final list of [mutations](https://github.com/spyros-lytras/hantavirus_molevo/tree/main/ancestral%20reconstruction/mutations%20list)
+- [PoW](https://github.com/spyros-lytras/hantavirus_molevo/tree/main/PoW): Contains files and [scripts](https://github.com/spyros-lytras/hantavirus_molevo/tree/main/PoW/scripts) for running the PoW model
+    - [Rate posterior distributions](https://github.com/spyros-lytras/hantavirus_molevo/tree/main/PoW/Rate_posterior_distributions): For getting posteriors of clockRate
+    - [Ultrametric trees](https://github.com/spyros-lytras/hantavirus_molevo/tree/main/PoW/ultrametric_trees)
     - Script output:
-        - [Recreated trees](https://github.com/charu3618/Hantavirus-clockrate/tree/main/PoW/recreated_trees)
-        - [Transformed trees](https://github.com/charu3618/Hantavirus-clockrate/tree/main/PoW/PoW_transformed_trees): Contains PoW transformed tree for each segment and the summarised MCC trees
+        - [Recreated trees](https://github.com/spyros-lytras/hantavirus_molevo/tree/main/PoW/recreated_trees)
+        - [Transformed trees](https://github.com/spyros-lytras/hantavirus_molevo/tree/main/PoW/PoW_transformed_trees): Contains PoW transformed tree for each segment and the summarised MCC trees
 
-- [iSNV analysis](https://github.com/charu3618/Hantavirus-clockrate/tree/main/isnv_analysis)
+- [iSNV analysis](https://github.com/spyros-lytras/hantavirus_molevo/tree/main/isnv_analysis)
     -From SRA, get bam files
       PP_006XDHK.5, BioSample ID SAMN60423882;
       PP_006XDJH.5, NOT on SRA yet
