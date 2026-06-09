@@ -41,7 +41,8 @@ This repository contains the metadata, files and scripts for running multiple an
     -Get basefreqs
 
       python ~/shiver/bin/tools/AnalysePileup.py XDHK_M.pileup ../MT956619.fasta > XDHK_M_Basefreqs.csv
-      
+
+- [Selection analysis](https://github.com/spyros-lytras/hantavirus_molevo/tree/main/selection_analysis): Contains all scripts, documentation and results for the selection analysis.    
       
 ## Softwares used
 
