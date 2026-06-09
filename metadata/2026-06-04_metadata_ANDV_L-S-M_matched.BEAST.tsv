@@ -1,0 +1,88 @@
+isolate	L	S	M	country	host	reference	organism	collection_date	clades
+1233	-	-	KC567277.1-KC567262.1	Chile	Homo sapiens	https://www.ncbi.nlm.nih.gov/pubmed/25272189	Orthohantavirus andesense	2012-01-16	clade1
+1234	-	-	KC567276.1-KC567263.1	Chile	Homo sapiens	https://www.ncbi.nlm.nih.gov/pubmed/25272189	Orthohantavirus andesense	2012-02-15	clade1
+1235	-	-	KC567275.1-KC567264.1	Chile	Homo sapiens	https://www.ncbi.nlm.nih.gov/pubmed/25272189	Orthohantavirus andesense	2012-02-15	clade4
+136	PV796318.1	PV796316.1	PV796317.1	Chile	Homo sapiens	https://www.ncbi.nlm.nih.gov/pubmed/41070183	Orthohantavirus andesense	2024-06-27	clade3
+137	PV808469.1	PV808467.1	PV808468.1	Chile	Homo sapiens	https://www.ncbi.nlm.nih.gov/pubmed/41070183	Orthohantavirus andesense	2024-06-27	clade3
+177	-	-	KC567280.1-KC567259.1	Chile	Homo sapiens	https://www.ncbi.nlm.nih.gov/pubmed/25272189	Orthohantavirus andesense	2011-05-16	clade1
+187	-	-	KC567279.1-KC567260.1	Chile	Homo sapiens	https://www.ncbi.nlm.nih.gov/pubmed/25272189	Orthohantavirus andesense	2010-02-14	clade3
+403	-	-	KC567278.1-KC567261.1	Chile	Homo sapiens	https://www.ncbi.nlm.nih.gov/pubmed/25272189	Orthohantavirus andesense	2010-02-14	clade3
+480	-	-	KC567281.1-KC567258.1	Chile	Homo sapiens	https://www.ncbi.nlm.nih.gov/pubmed/25272189	Orthohantavirus andesense	2010-03-16	clade3
+A	-	-	KC567270.1-KC567269.1	Chile	Homo sapiens	https://www.ncbi.nlm.nih.gov/pubmed/25272189	Orthohantavirus andesense	2011-04-15	clade1
+Al16	-	EU241684.1	-	Chile	Abrothrix longipilis	https://www.ncbi.nlm.nih.gov/pubmed/19116256	Orthohantavirus andesense	2003-07-02	clade1
+Al218	-	EU241687.1	-	Chile	Abrothrix longipilis	https://www.ncbi.nlm.nih.gov/pubmed/19116256	Orthohantavirus andesense	2003-07-02	clade4
+Andes/ARG-O.l.444	-	OP555728.1	OP555724.1	Argentina	Oligoryzomys longicaudatus	10.1128/MSPHERE.00018-23	Orthohantavirus andesense	1999-07-02	clade3
+ANDV_LS-CH-2016	KY659431.1	KY659432.1	KY604962.1	Switzerland	Homo sapiens	10.3390/V15112266/S1	Orthohantavirus andesense	2016-12-23	clade1
+ANDV-CH-LS-2016	OR405523.1	OR405525.1	OR405524.1	Switzerland	Homo sapiens	10.3390/V15112266/S1	Orthohantavirus andesense	2016-07-01	clade1
+ARCH14/NRC1	MN850096.1	MN850086.1	MN850091.1	Argentina	Homo sapiens	10.3201/EID2604.190799	Orthohantavirus andesense	2014-07-02	clade4
+AREB14_p1	MN850093.1	MN850083.1	MN850088.1	Argentina	Homo sapiens	10.3201/EID2604.190799	Orthohantavirus andesense	2014-07-02	clade2
+AREB14_p2	MN850094.1	MN850084.1	MN850089.1	Argentina	Homo sapiens	10.3201/EID2604.190799	Orthohantavirus andesense	2014-07-02	clade2
+AREB14_p3	MN850095.1	MN850085.1	MN850090.1	Argentina	Homo sapiens	10.3201/EID2604.190799	Orthohantavirus andesense	2014-07-02	clade2
+B	-	-	KC567273.1-KC567266.1	Chile	Homo sapiens	https://www.ncbi.nlm.nih.gov/pubmed/25272189	Orthohantavirus andesense	2011-04-15	clade1
+C	-	-	KC567274.1-KC567265.1	Chile	Homo sapiens	https://www.ncbi.nlm.nih.gov/pubmed/25272189	Orthohantavirus andesense	2011-04-15	clade1
+CHI-7913_MT	MT956620.1	MT956618.1	MT956619.1	Chile	Homo sapiens	10.1128/MSPHERE.00018-23	Orthohantavirus andesense	1999-07-02	clade1
+CHI-7913_PV	PV808472.1	PV808470.1	PV808471.1	Chile	Homo sapiens	https://www.ncbi.nlm.nih.gov/pubmed/41070183	Orthohantavirus andesense	1999-07-02	clade1
+CHI-9717869_AF	AF291704.5	AF291702.1	AF291703.2	Chile	Oligoryzomys longicaudatus	10.1128/jvi.01057-08	Orthohantavirus andesense	1997-07-02	clade4
+CHI-9717869_MT	MT956621.1	MT956622.1	MT956623.1	Chile	Oligoryzomys longicaudatus	10.1128/MSPHERE.00018-23	Orthohantavirus andesense	1997-07-02	clade4
+Chile-9717869	NC_003468.2	NC_003466.1	NC_003467.2	Chile	Oligoryzomys_longicaudatus	https://www.ncbi.nlm.nih.gov/pubmed/12367756	Orthohantavirus andesense	1997-09-27	clade4
+D	-	-	KC567271.1-KC567268.1	Chile	Homo sapiens	https://www.ncbi.nlm.nih.gov/pubmed/25272189	Orthohantavirus andesense	2011-04-15	clade1
+E	-	-	KC567272.1-KC567267.1	Chile	Homo sapiens	https://www.ncbi.nlm.nih.gov/pubmed/25272189	Orthohantavirus andesense	2011-04-15	clade1
+Epilink/96_2/6/19	MN258156.1	MN258223.1	MN258189.1	Argentina	Homo sapiens	10.1128/MSPHERE.00018-23	Orthohantavirus andesense	1996-12-11	clade2
+Epuyen/18-19_Patient_1_11/3/18	MN258172.1	MN258239.1	MN258205.1	Argentina	Homo sapiens	10.1056/NEJMoa2009040	Orthohantavirus andesense	2018-11-10	clade2
+Epuyen/18-19_Patient_10_12/10/18	MN258162.1	MN258229.1	MN258195.1	Argentina	Homo sapiens	10.1056/NEJMoa2009040	Orthohantavirus andesense	2018-12-15	clade2
+Epuyen/18-19_Patient_11_12/15/18	MN258163.1	MN258230.1	MN258196.1	Argentina	Homo sapiens	10.1056/NEJMoa2009040	Orthohantavirus andesense	2018-12-19	clade2
+Epuyen/18-19_Patient_12_12/19/18	MN258164.1	MN258231.1	MN258197.1	Argentina	Homo sapiens	10.1056/NEJMoa2009040	Orthohantavirus andesense	2018-12-21	clade2
+Epuyen/18-19_Patient_13_12/24/18	MN258165.1	MN258232.1	MN258198.1	Argentina	Homo sapiens	10.1056/NEJMoa2009040	Orthohantavirus andesense	2018-12-24	clade2
+Epuyen/18-19_Patient_14_12/26/18	MN258166.1	MN258233.1	MN258199.1	Argentina	Homo sapiens	10.1056/NEJMoa2009040	Orthohantavirus andesense	2018-12-28	clade2
+Epuyen/18-19_Patient_15_12/26/18	MN258167.1	MN258234.1	MN258200.1	Argentina	Homo sapiens	10.1056/NEJMoa2009040	Orthohantavirus andesense	2018-12-28	clade2
+Epuyen/18-19_Patient_16_12/28/18	MN258168.1	MN258235.1	MN258201.1	Argentina	Homo sapiens	10.1056/NEJMoa2009040	Orthohantavirus andesense	2019-01-01	clade2
+Epuyen/18-19_Patient_17_12/31/18	MN258169.1	MN258236.1	MN258202.1	Argentina	Homo sapiens	10.1056/NEJMoa2009040	Orthohantavirus andesense	2019-01-03	clade2
+Epuyen/18-19_Patient_18_12/31/18	MN258170.1	MN258237.1	MN258203.1	Argentina	Homo sapiens	10.1056/NEJMoa2009040	Orthohantavirus andesense	2019-01-02	clade2
+Epuyen/18-19_Patient_19_1/2/19	MN258171.1	MN258238.1	MN258204.1	Argentina	Homo sapiens	10.1056/NEJMoa2009040	Orthohantavirus andesense	2019-01-02	clade2
+Epuyen/18-19_Patient_2_11/23/18	-	MN258249.1	MN258215.1	Argentina	Homo sapiens	10.1056/NEJMoa2009040	Orthohantavirus andesense	2018-11-28	clade2
+Epuyen/18-19_Patient_20_1/1/19	MN258173.1	MN258240.1	MN258206.1	Argentina	Homo sapiens	10.1056/NEJMoa2009040	Orthohantavirus andesense	2019-01-06	clade2
+Epuyen/18-19_Patient_22_1/1/19	MN258174.1	MN258241.1	MN258207.1	Argentina	Homo sapiens	10.1056/NEJMoa2009040	Orthohantavirus andesense	2019-01-04	clade2
+Epuyen/18-19_Patient_23_1/7/19	MN258175.1	MN258242.1	MN258208.1	Argentina	Homo sapiens	10.1056/NEJMoa2009040	Orthohantavirus andesense	2019-01-05	clade2
+Epuyen/18-19_Patient_24_1/3/19	MN258176.1	MN258243.1	MN258209.1	Argentina	Homo sapiens	10.1056/NEJMoa2009040	Orthohantavirus andesense	2019-01-06	clade2
+Epuyen/18-19_Patient_25_1/6/19	MN258177.1	MN258244.1	MN258210.1	Argentina	Homo sapiens	10.1056/NEJMoa2009040	Orthohantavirus andesense	2019-01-06	clade2
+Epuyen/18-19_Patient_26_1/4/19	MN258178.1	MN258245.1	MN258211.1	Argentina	Homo sapiens	10.1056/NEJMoa2009040	Orthohantavirus andesense	2019-01-07	clade2
+Epuyen/18-19_Patient_27_1/8/19	MN258179.1	MN258246.1	MN258212.1	Argentina	Homo sapiens	10.1056/NEJMoa2009040	Orthohantavirus andesense	2019-01-10	clade2
+Epuyen/18-19_Patient_28_1/6/19	MN258180.1	MN258247.1	MN258213.1	Argentina	Homo sapiens	10.1056/NEJMoa2009040	Orthohantavirus andesense	2019-01-10	clade2
+Epuyen/18-19_Patient_29_1/14/19	MN258181.1	MN258248.1	MN258214.1	Argentina	Homo sapiens	10.1056/NEJMoa2009040	Orthohantavirus andesense	2019-01-16	clade2
+Epuyen/18-19_Patient_3_11/20/18	MN258182.1	MN258250.1	MN258216.1	Argentina	Homo sapiens	10.1056/NEJMoa2009040	Orthohantavirus andesense	2018-11-26	clade2
+Epuyen/18-19_Patient_4_11/27/18	MN258183.1	MN258251.1	MN258217.1	Argentina	Homo sapiens	10.1056/NEJMoa2009040	Orthohantavirus andesense	2018-12-03	clade2
+Epuyen/18-19_Patient_5_11/26/18	MN258184.1	MN258252.1	MN258218.1	Argentina	Homo sapiens	10.1056/NEJMoa2009040	Orthohantavirus andesense	2018-12-09	clade2
+Epuyen/18-19_Patient_6_11/25/18	MN258185.1	MN258253.1	MN258219.1	Argentina	Homo sapiens	10.1056/NEJMoa2009040	Orthohantavirus andesense	2018-12-02	clade2
+Epuyen/18-19_Patient_7_12/7/18	MN258186.1	MN258254.1	MN258220.1	Argentina	Homo sapiens	10.1056/NEJMoa2009040	Orthohantavirus andesense	2018-12-12	clade2
+Epuyen/18-19_Patient_8_12/13/18	MN258187.1	MN258255.1	MN258221.1	Argentina	Homo sapiens	10.1056/NEJMoa2009040	Orthohantavirus andesense	2018-12-16	clade2
+Epuyen/18-19_Patient_9_12/12/18	MN258188.1	MN258256.1	MN258222.1	Argentina	Homo sapiens	10.1056/NEJMoa2009040	Orthohantavirus andesense	2018-12-14	clade2
+Lm859	-	EU241688.1	-	Chile	Loxodontomys micropus	https://www.ncbi.nlm.nih.gov/pubmed/19116256	Orthohantavirus andesense	2003-07-02	clade4
+NK 104619	-	-	EU241639.1-EU241653.1	Chile	Oligoryzomys longicaudatus	https://www.ncbi.nlm.nih.gov/pubmed/19116256	Orthohantavirus andesense	2003-07-02	unclassified
+NK 108843	-	-	EU241641.1-EU241655.1	Chile	Oligoryzomys longicaudatus	https://www.ncbi.nlm.nih.gov/pubmed/19116256	Orthohantavirus andesense	2003-07-02	clade1
+NK 120092	-	-	EU241640.1	Chile	Oligoryzomys longicaudatus	https://www.ncbi.nlm.nih.gov/pubmed/19116256	Orthohantavirus andesense	2003-07-02	unclassified
+NK 96865	-	-	EU241637.1-EU241651.1	Chile	Oligoryzomys longicaudatus	https://www.ncbi.nlm.nih.gov/pubmed/19116256	Orthohantavirus andesense	2003-07-02	unclassified
+NK 96887	-	-	EU241638.1-EU241652.1	Chile	Oligoryzomys longicaudatus	https://www.ncbi.nlm.nih.gov/pubmed/19116256	Orthohantavirus andesense	2003-07-02	unclassified
+NK104535	-	EU241698.1	EU241646.1-EU241660.1	Chile	Oligoryzomys longicaudatus	https://www.ncbi.nlm.nih.gov/pubmed/19116256	Orthohantavirus andesense	2003-07-02	clade3
+NK104544	-	EU241699.1	EU241647.1-EU241661.1	Chile	Oligoryzomys longicaudatus	https://www.ncbi.nlm.nih.gov/pubmed/19116256	Orthohantavirus andesense	2003-07-02	clade3
+NK105362	-	EU241695.1	EU241645.1-EU241659.1	Chile	Oligoryzomys longicaudatus	https://www.ncbi.nlm.nih.gov/pubmed/19116256	Orthohantavirus andesense	2003-07-02	clade3
+NK105979	-	EU241694.1	EU241642.1-EU241656.1	Chile	Oligoryzomys longicaudatus	https://www.ncbi.nlm.nih.gov/pubmed/19116256	Orthohantavirus andesense	2003-07-02	clade1
+NK120076	-	EU241680.1	-	Chile	Oligoryzomys longicaudatus	https://www.ncbi.nlm.nih.gov/pubmed/19116256	Orthohantavirus andesense	2003-07-02	unclassified
+NK120378	-	EU241702.1	EU241650.1-EU241664.1	Chile	Oligoryzomys longicaudatus	https://www.ncbi.nlm.nih.gov/pubmed/19116256	Orthohantavirus andesense	2003-07-02	clade4-unclassified
+NK120387	-	EU241685.1	-	Chile	Oligoryzomys longicaudatus	https://www.ncbi.nlm.nih.gov/pubmed/19116256	Orthohantavirus andesense	2003-07-02	clade4
+NK95083	-	EU241696.1	EU241644.1-EU241658.1	Chile	Oligoryzomys longicaudatus	https://www.ncbi.nlm.nih.gov/pubmed/19116256	Orthohantavirus andesense	2003-07-02	clade3
+NK95613	-	EU241683.1	-	Chile	Oligoryzomys longicaudatus	https://www.ncbi.nlm.nih.gov/pubmed/19116256	Orthohantavirus andesense	2003-07-02	unclassified
+NK96555	-	EU241700.1	EU241648.1-EU241662.1	Chile	Oligoryzomys longicaudatus	https://www.ncbi.nlm.nih.gov/pubmed/19116256	Orthohantavirus andesense	2003-07-02	clade4
+NK96566	-	EU241701.1	EU241649.1-EU241663.1	Chile	Oligoryzomys longicaudatus	https://www.ncbi.nlm.nih.gov/pubmed/19116256	Orthohantavirus andesense	2003-07-02	clade4
+NK96703	-	EU241697.1	EU241643.1-EU241657.1	Chile	Oligoryzomys longicaudatus	https://www.ncbi.nlm.nih.gov/pubmed/19116256	Orthohantavirus andesense	2003-07-02	clade1-clade4
+NRC-2/97_06/01/1996	MN258157.1	MN258224.1	MN258190.1	Argentina	Homo sapiens	10.1371/JOURNAL.PNTD.0012465	Orthohantavirus andesense	1997-11-30	clade1
+NRC2_ARLA17	MN850097.1	MN850087.1	MN850092.1	Argentina	Homo sapiens	10.3201/EID2604.190799	Orthohantavirus andesense	2017-07-02	clade2
+NRC-3/18_06/01/1997	MN258158.1	MN258225.1	MN258191.1	Argentina	Homo sapiens	10.1056/nejmoa2009040	Orthohantavirus andesense	2018-11-09	clade3
+NRC-4/18_06/01/2018	MN258159.1	MN258226.1	MN258192.1	Argentina	Homo sapiens	10.1056/nejmoa2009040	Orthohantavirus andesense	2018-08-19	clade3
+NRC-5/18_06/01/2018	MN258160.1	MN258227.1	MN258193.1	Argentina	Homo sapiens	10.1056/nejmoa2009040	Orthohantavirus andesense	2018-09-04	clade1
+NRC-6/18_05/21/18	MN258161.1	MN258228.1	MN258194.1	Argentina	Homo sapiens	10.1056/nejmoa2009040	Orthohantavirus andesense	2018-05-21	clade2
+Ol178	-	EU241686.1	-	Chile	Oligoryzomys longicaudatus	https://www.ncbi.nlm.nih.gov/pubmed/19116256	Orthohantavirus andesense	2003-07-02	clade4
+Ol25	-	EU241681.1	-	Chile	Oligoryzomys longicaudatus	https://www.ncbi.nlm.nih.gov/pubmed/19116256	Orthohantavirus andesense	2003-07-02	clade1
+Ol26	-	EU241682.1	-	Chile	Oligoryzomys longicaudatus	https://www.ncbi.nlm.nih.gov/pubmed/19116256	Orthohantavirus andesense	2003-07-02	clade1
+WBLH	PP_006WBLH.2	PP_006WBLH.2	PP_006WBLH.2	Switzerland	Homo sapiens		Orthohantavirus andesense	2026-04-05	clade3
+XDHK	PP_006XDHK.5	PP_006XDHK.5	PP_006XDHK.5	Canada	Homo sapiens		Orthohantavirus andesense	2026-05-15	clade3
+XDJH	PP_006XDJH.5	PP_006XDJH.5	PP_006XDJH.5	Canada	Homo sapiens		Orthohantavirus andesense	2026-05-15	clade3
