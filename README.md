@@ -1,28 +1,29 @@
 # Hantavirus-clockrate
-This repository contains the metadata, files and scripts for running multiple analysis.
+This repository contains the metadata, files and scripts for running multiple analysis for *Molecular evolution of Andes virus lineages leading to recent human outbreaks*.
 
 ## Contents
 
-- [Metadata](https://github.com/spyros-lytras/hantavirus_molevo/tree/main/metadata): Contains curated metadata for samples used for the analysis
+- [Metadata](metadata): Contains curated metadata for samples used for the analysis
     - Contains metadata for S, M and L segments
     - Contains matched samples across all segments
-- [ancestral reconstruction](https://github.com/spyros-lytras/hantavirus_molevo/tree/main/ancestral%20reconstruction): Contains files and [scripts](https://github.com/spyros-lytras/hantavirus_molevo/tree/main/ancestral%20reconstruction/scripts) for running ancestral reconstruction using IQ-TREE
-    - [Alignments](https://github.com/spyros-lytras/hantavirus_molevo/tree/main/codon_alignments) and [rooted trees](https://github.com/spyros-lytras/hantavirus_molevo/tree/main/phylogenies) were used to reconstruct ancestral sequences. Command used:
+- [ancestral reconstruction](ancestral_reconstruction): Contains files and [scripts](ancestral_reconstruction/scripts) for running ancestral reconstruction using IQ-TREE
+    - [Alignments](codon_alignments) and [rooted trees](phylogenies) were used to reconstruct ancestral sequences. Command used:
       
       ```bash
       iqtree2 -s ./sequence.fasta -te ./rooted_tree.nwk -m UNREST -asr
       ```
-    - [Output files](https://github.com/spyros-lytras/hantavirus_molevo/tree/main/ancestral%20reconstruction/iqtree_output) can be used to generate [reconstructed ancestor sequences](https://github.com/spyros-lytras/hantavirus_molevo/tree/main/ancestral%20reconstruction/ancestral_sequences) using this [script](https://github.com/spyros-lytras/hantavirus_molevo/tree/main/ancestral%20reconstruction/scripts)
-    - These reconstructed sequences are aligned against reference sequence to get [aligned ancestral sequences](https://github.com/spyros-lytras/hantavirus_molevo/tree/main/ancestral%20reconstruction/ancestral_sequences_aligned)
-    - The [script](https://github.com/spyros-lytras/hantavirus_molevo/tree/main/ancestral%20reconstruction/scripts) gives the final list of [mutations](https://github.com/spyros-lytras/hantavirus_molevo/tree/main/ancestral%20reconstruction/mutations%20list)
-- [PoW](https://github.com/spyros-lytras/hantavirus_molevo/tree/main/PoW): Contains files and [scripts](https://github.com/spyros-lytras/hantavirus_molevo/tree/main/PoW/scripts) for running the PoW model
-    - [Rate posterior distributions](https://github.com/spyros-lytras/hantavirus_molevo/tree/main/PoW/Rate_posterior_distributions): For getting posteriors of clockRate
-    - [Ultrametric trees](https://github.com/spyros-lytras/hantavirus_molevo/tree/main/PoW/ultrametric_trees)
+    - [Output files](ancestral_reconstruction/iqtree_output) can be used to generate [reconstructed ancestor sequences](ancestral_reconstruction/ancestral_sequences) using this [script](ancestral_reconstruction/scripts)
+    - These reconstructed sequences are aligned against reference sequence to get [aligned ancestral sequences](ancestral_reconstruction/ancestral_sequences_aligned)
+    - The [script](ancestral_reconstruction/scripts) gives the final list of [mutations](ancestral_reconstruction/mutations_list)
+- [Beast analysis](beat): Contains log files and summarised MCC from BEAST molecular dating analysis.
+- [PoW](PoW): Contains files and [scripts](PoW/scripts) for running the PoW model
+    - [Rate posterior distributions](PoW/Rate_posterior_distributions): For getting posteriors of clockRate
+    - [Ultrametric trees](PoW/ultrametric_trees)
     - Script output:
-        - [Recreated trees](https://github.com/spyros-lytras/hantavirus_molevo/tree/main/PoW/recreated_trees)
-        - [Transformed trees](https://github.com/spyros-lytras/hantavirus_molevo/tree/main/PoW/PoW_transformed_trees): Contains PoW transformed tree for each segment and the summarised MCC trees
+        - [Recreated trees](PoW/recreated_trees)
+        - [Transformed trees](PoW_transformed_trees): Contains PoW transformed tree for each segment and the summarised MCC trees
 
-- [iSNV analysis](https://github.com/spyros-lytras/hantavirus_molevo/tree/main/isnv_analysis)
+- [iSNV analysis](isnv_analysis)
     -From SRA, get bam files
       PP_006XDHK.5, BioSample ID SAMN60423882;
       PP_006XDJH.5, BioSample ID SAMN60696784
@@ -42,7 +43,7 @@ This repository contains the metadata, files and scripts for running multiple an
 
       python ~/shiver/bin/tools/AnalysePileup.py XDHK_M.pileup ../MT956619.fasta > XDHK_M_Basefreqs.csv
 
-- [Selection analysis](https://github.com/spyros-lytras/hantavirus_molevo/tree/main/selection_analysis): Contains all scripts, documentation and results for the selection analysis.    
+- [Selection analysis](selection_analysis): Contains all scripts, documentation and results for the selection analysis.    
       
 ## Softwares used
 
