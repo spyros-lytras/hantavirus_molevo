@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><beast beautitemplate='Standard' beautistatus='' namespace="beast.core:beast.evolution.alignment:beast.evolution.tree.coalescent:beast.core.util:beast.evolution.nuc:beast.evolution.operators:beast.evolution.sitemodel:beast.evolution.substitutionmodel:beast.evolution.likelihood" required="" version="2.6">
+
+    <data
+id="sequences_S_ex_lab_cells_2026_05_27v5"
+spec="Alignment"
+name="alignment">
+                        <sequence id="seq_MN258223.1|Homo_sapiens|Argentina|1996-12-11|21.9575632" spec="Sequence" taxon="MN258223.1|Homo_sapiens|Argentina|1996-12-11|21.957563" totalcount="4" value="atgagcaccctccaagaattacaagaaaacatcacagcacacgaacaacagctcgtgactgctcggcaaaagcttaaagatgccgagaaggcggtggaggtggacccggatgacgttaacaagagcacactacaaagtagacgggcagctgtgtctacattggagaccaaactcggggaactcaagaggcaacttgcggatctggtggcagctcaaaagttggctacaaaaccagttgatccaacagggcttgagcctgatgaccatctgaaagaaaaatcatctctgagatatgggaatgtcctggatgttaactcaattgacttggaagaaccgagtggacagactgctgattggaaggctataggagcatatattttagggtttgcaattccgatcatactaaaagccctatatatgctgtcaacccgcgggagacaaactgtgaaagacaataaaggaactaggataaggtttaaggatgattcttcctttgaagaagtcaatgggatacgtaaaccaaaacacctttatgtctcaatgccgactgcacagtctactatgaaggctgaagaaatcacaccaggacgttttaggacaattgcttgtggcctcttcccagcacaggtcaaagctcgaaacataataagccctgtaatgggagtgattggatttggcttctttgtgaaggactggatggatcggatagaggaattcctggctgcagagtgtccattcttgcctaagccaaaggttgcctcagaagccttcatgtctaccaacaagatgtatttcctgaacagacagagacaagtcaatgaatctaaggttcaagacattattgatttgatagatcatgctgaaactgagtctgctaccttgtttacggaaattgcaacaccccattcagtctgggtgtttgcatgtgcgcctgaccggtgccctccgactgcattgtatgttgcaggggtaccagaacttggtgcattcttttccattcttcaggacatgcgtaataccattatggcatctaagtctgtagggactgcagaagagaagctaaagaagaaatctgccttctatcaatcttacctgagaaggacacaatctatggggattcaactggaccaaaagatcataatcctctacatgctctcatggggtaaagaagctgtgaatcatttccatcttggtgatgatatggaccctgaactaaggcagctagcacaatccctgattgacaccaaggtgaaggagatctccaaccaagagccactaaagttg"/>
+                        <sequence id="seq_MN258228.1|Homo_sapiens|Argentina|2018-05-21|0.5174542" spec="Sequence" taxon="MN258228.1|Homo_sapiens|Argentina|2018-05-21|0.517454" totalcount="4" value="atgagcaccctccaagaattacaagaaaacatcacagcacacgaacaacagctcgtgactgctcggcaaaagcttaaagatgccgagaaggcggtggaggtggacccggatgacgttaacaagagcacattacaaagtagacgggcagctgtgtctacattggagaccaaactcggggaactcaagaggcaacttgcggatctggtggcagctcaaaagttggctacaaaaccagttgatccaacagggcttgagcctgatgaccatctgaaagagaaatcatctctaagatatgggaatgtcctggatgttaactcaattgacttggaagaaccgagtggacagactgctgattggaaggctataggagcatatatcttagggtttgcaattccgatcatactaaaagccctatatatgctgtcaacccgcgggagacaaactgtgaaagacaataaaggaactaggataaggtttaaggatgattcttcctttgaagaagtcaatgggatacgtaaaccaaaacacctttatgtctcaatgccgactgcacagtctactatgaaggctgaagaaatcacgccaggacgttttaggacaattgcttgcggcctcttcccagcacaggtcaaagctcgaaacataataagccctgtaatgggagtgattggatttggcttctttgtgaaggactggatggatcggatagaggaattcctggctgcagagtgtccattcttgcctaagccaaaggttgcctcagaagccttcatgtctaccaacaagatgtatttcctgaacaggcagagacaagtcaatgaatctaaggttcaagacattattgatttgatagatcatgctgaaactgagtctgctaccttgtttacggaaattgcaacaccccattcagtctgggtgtttgcatgtgcgcctgaccggtgccctccaactgcattgtatgttgcaggggtaccagaacttggtgcattcttttccattcttcaggacatgcgtaataccatcatggcatctaaatctgtagggactgcagaagagaagctaaagaagaaatctgccttctatcaatcttacctgagaaggacacaatctatggggattcaactggaccaaaagatcataatcctctacatgctctcatggggtaaagaagctgtgaatcatttccatcttggtgatgatatggaccctgaattaaggcagctagcacaatccctgattgacaccaaggtgaaggagatctccaaccaagagccactaaagttg"/>
+                        <sequence id="seq_MN258239.1|Homo_sapiens|Argentina|2018-11-10|0.0438062" spec="Sequence" taxon="MN258239.1|Homo_sapiens|Argentina|2018-11-10|0.043806" totalcount="4" value="atgagcaccctccaagaactacaagaaaacatcacagcacacgaacaacagctcgtgactgctcggcaaaagcttaaagatgccgagaaggcggtggaggtggacccggatgacgttaacaagagcacattacaaagtagacgggcagctgtgtctacattggagaccaaactcggggaactcaagaggcaacttgcggatctggtggcagctcaaaagttggctacaaaaccagttgatccaacagggcttgagcctgatgaccatctgaaagagaaatcatctctgagatatgggaatgtcctggatgttaactcaatcgacttggaagaaccgagtggacagactgctgattggaaggctataggagcatatatcttagggtttgcaattccgatcatactaaaagccctatatatgctgtcaacccgcgggagacaaactgtgaaagacaataaaggaactaggataaggtttaaggatgattcttcctttgaagaagtcaatgggatacgtaaaccaaaacacctttatgtctcaatgccgactgcacagtctactatgaaggctgaagaaatcacgccaggacgttttaggacaattgcttgtggcctcttcccagcacaggtcaaagctcgaaacataataagccctgtaatgggagtgattggatttggcttctttgtgaaggactggatggatcggatagaggaattcctggctgcagagtgtccattcttgcctaagccaaaggttgcctcagaagccttcatgtctaccaacaagatgtatttcctgaacagacagagacaagtcaatgaatctaaggttcaagacattattgatttgatagatcatgctgaaactgagtctgctaccttgtttacggaaattgcaacaccccattcagtctgggtgtttgcatgtgcgcctgaccggtgccctccaactgcattgtatgtcgcaggggtaccagaacttggtgcattcttttccattcttcaggacatgcgtaataccatcatggcatctaaatctgtagggactgcagaagagaagctaaagaagaaatctgccttctatcaatcttacctgagaagaacacaatctatggggattcaactggaccaaaagatcataatcctctacatgctttcatggggtaaagaagctgtgaatcatttccatcttggtgatgatatggaccctgaactaaggcagctagcacaatccctgatcgacaccaaggtgaaggagatctccaaccaagagccactaaagttg"/>
+                        <sequence id="seq_MN258250.1|Homo_sapiens|Argentina|2018-11-26|0.0000002" spec="Sequence" taxon="MN258250.1|Homo_sapiens|Argentina|2018-11-26|0.000000" totalcount="4" value="atgagcaccctccaagaactacaagaaaacatcacagcacacgaacaacagctcgtgactgctcggcaaaagcttaaagatgccgagaaggcggtggaggtggacccggatgacgttaacaagagcacattacaaagtagacgggcagctgtgtctacattggagaccaaactcggggaactcaagaggcaacttgcggatctggtggcagctcaaaagttggctacaaaaccagttgatccaacagggcttgagcctgatgaccatctgaaagagaaatcatctctgagatatgggaatgtcctggatgttaactcaatcgacttggaagaaccgagtggacagactgctgattggaaggctataggagcatatatcttagggtttgcaattccgatcatactaaaagccctatatatgctgtcaacccgcgggagacaaactgtgaaagacaataaaggaactaggataaggtttaaggatgattcttcctttgaagaagtcaatgggatacgtaaaccaaaacacctttatgtctcaatgccgactgcacagtctactatgaaggctgaagaaatcacgccaggacgttttaggacaattgcttgtggcctcttcccagcacaggtcaaagctcgaaacataataagccctgtaatgggagtgattggatttggcttctttgtgaaggactggatggatcggatagaggaattcctggctgcagagtgtccattcttgcctaagccaaaggttgcctcagaagccttcatgtctaccaacaagatgtatttcctgaacagacagagacaagtcaatgaatctaaggttcaagacattattgatttgatagatcatgctgaaactgagtctgctaccttgtttacggaaattgcaacaccccattcagtctgggtgtttgcatgtgcgcctgaccggtgccctccaactgcattgtatgtcgcaggggtaccagaacttggtgcattcttttccattcttcaggacatgcgtaataccatcatggcatctaaatctgtagggactgcagaagagaagctaaagaagaaatctgccttctatcaatcttacctgagaagaacacaatctatggggattcaactggaccaaaagatcataatcctctacatgctttcatggggtaaagaagctgtgaatcatttccatcttggtgatgatatggaccctgaactaaggcagctagcacaatccctgatcgacaccaaggtgaaggagatctccaaccaagagccactaaagttg"/>
+                        <sequence id="seq_MN850083.1|Homo_sapiens|Argentina|2014-07-02|4.4024642" spec="Sequence" taxon="MN850083.1|Homo_sapiens|Argentina|2014-07-02|4.402464" totalcount="4" value="atgagcaccctccaagaattacaagaaaacatcacagcacacgaacaacagctcgtgactgctcggcaaaagcttaaagatgccgagaaggcggtggaggtggacccggatgacgttaacaagagcacattacaaagtagacgggcagctgtgtctacattggagaccaaactcggggaactcaagaggcaacttgcggatctggtggcagctcaaaagttggctacaaaaccagttgatccaacagggcttgagcctgatgaccatctgaaagagaaatcatctctgagatatgggaatgtcctggatgttaactcaattgacttggaagaaccgagtggacagactgctgattggaaggctataggagcatatatcttagggtttgcaattccgatcatactaaaagccctatacatgctgtcaacccgcgggagacaaactgtgaaagacaataaaggaaccaggataagatttaaggatgattcttcctttgaagaagttaatgggatacgtaaaccaaaacacctttatgtctcaatgccgactgcacagtctactatgaaggctgaagaaatcacgccaggacgttttaggacaattgcttgtggcctcttcccagcacaggtcaaagctcgaaacataataagccctgtaatgggagtgattggatttggcttctttgtgaaggactggatggatcggatagaggaattcctggctgcagagtgtccattcttgcctaagccaaaggttgcctcagaagccttcatgtctaccaacaagatgtatttcctgaacagacagagacaagtcaatgaatctaaggttcaagacattattgatttgatagatcatgctgaaactgaatctgccaccttgtttacggaaattgcaacaccccattcagtctgggtgtttgcatgtgcgcctgaccggtgccctccaactgcattgtatgttgcaggggtaccagaacttggtgcattcttttccattcttcaggacatgcgtaataccatcatggcatctaaatctgtagggactgcagaagagaagctaaagaagaaatctgccttctatcaatcttacctgagaaggacacaatctatggggattcaactggaccaaaagatcataatcctctacatgctctcatggggtaaagaagctgtgaatcatttccatcttggtgatgatatggaccctgaactaaggcagctagcacaatccctgattgacaccaaggtgaaggagatctccaaccaagagccactaaagtta"/>
+                        <sequence id="seq_MN850084.1|Homo_sapiens|Argentina|2014-07-02|4.4024642" spec="Sequence" taxon="MN850084.1|Homo_sapiens|Argentina|2014-07-02|4.402464" totalcount="4" value="atgagcaccctccaagaattacaagaaaacatcacagcacacgaacaacagctcgtgactgctcggcaaaagcttaaagatgccgagaaggcggtggaggtggacccggatgacgttaacaagagcacattacaaagtagacgggcagctgtgtctacattggagaccaaactcggggaactcaagaggcaacttgcggatctggtggcagctcaaaagttggctacaaaaccagttgatccaacagggcttgagcctgatgaccatctgaaagagaaatcatctctgagatatgggaatgtcctggatgttaactcaattgacttggaagaaccgagtggacagactgctgattggaaggctataggagcatatatcttagggtttgcaattccgatcatactaaaagccctatacatgctgtcaacccgcgggagacaaactgtgaaagacaataaaggaaccaggataagatttaaggatgattcttcctttgaagaagttaatgggatacgtaaaccaaaacacctttatgtctcaatgccgactgcacagtctactatgaaggctgaagaaatcacgccaggacgttttaggacaattgcttgtggcctcttcccagcacaggtcaaagctcgaaacataataagccctgtaatgggagtgattggatttggcttctttgtgaaggactggatggatcggatagaggaattcctggctgcagagtgtccattcttgcctaagccaaaggttgcctcagaagccttcatgtctaccaacaagatgtatttcctgaacagacagagacaagtcaatgaatctaaggttcaagacattattgatttgatagatcatgctgaaactgaatctgccaccttgtttacggaaattgcaacaccccattcagtctgggtgtttgcatgtgcgcctgaccggtgccctccaactgcattgtatgttgcaggggtaccagaacttggtgcattcttttccattcttcaggacatgcgtaataccatcatggcatctaaatctgtagggactgcagaagagaagctaaagaagaaatctgccttctatcaatcttacctgagaaggacacaatctatggggattcaactggaccaaaagatcataatcctctacatgctctcatggggtaaagaagctgtgaatcatttccatcttggtgatgatatggaccctgaactaaggcagctagcacaatccctgattgacaccaaggtgaaggagatctccaaccaagagccactaaagtta"/>
+                        <sequence id="seq_MN850087.1|Homo_sapiens|Argentina|2017-07-02|1.4017802" spec="Sequence" taxon="MN850087.1|Homo_sapiens|Argentina|2017-07-02|1.401780" totalcount="4" value="atgagcaccctccaagaattacaagaaaacatcacagcacacgaacaacagctcgtgactgctcggcaaaagcttaaagatgccgagaaggcggtggaggtggacccggatgacgttaacaagagcacattacaaagtagacgggcagctgtgtctacattggagaccaaactcggggaactcaagaggcaacttgcggatttggtggcagctcaaaagttggctacaaaaccagttgatccaacagggcttgagcctgatgaccatctgaaagaaaaatcatctctgagatacgggaatgtcctggatgttaactcaattgacttggaagaaccgagtggacagactgctgactggaaggctataggagcatatatcttagggtttgcaattccgatcatactaaaagccctatatatgctgtcaacccgcgggagacaaactgtgaaagacaataaaggaactaggataaggtttaaggatgattcttcctttgaagaagtcaatgggatacgtaaaccaaaacacctttatgtctcaatgccgactgcacagtctactatgaaggctgaagaaatcacaccaggacgtttcaggacaattgcttgtggcctcttcccagcacaggtcaaagctcgaaacataataagccctgtaatgggagtgattggatttggcttctttgtgaaggactggatggatcggatagaggaattcctggctgcagagtgtccattcttgcctaagccaaaggttgcctcagaagccttcatgtctaccaacaagatgtatttcctgaacaggcagagacaagtcaatgaatctaaggttcaagacattattgatttgatagatcatgctgaaactgagtctgctaccttgtttacagaaattgcaacaccccattcagtctgggtgtttgcatgtgcgcctgaccggtgccctccaactgcattgtatgttgcaggggtaccagaacttggtgcattcttttccattcttcaggacatgcgtaataccatcatggcatctaagtctgtagggactgcagaagagaagctaaagaagaaatctgccttctatcaatcttacctgagaaggacacaatctatggggattcaactggaccaaaagatcataatcctctacatgctctcatggggtaaagaagctgtgaatcatttccatcttggtgatgatatggaccctgaactaaggcagctagcacaatccctgattgacaccaaggtgaaggagatctccaaccaagagccactaaagttg"/>
+                    </data>
+
+
+    
+
+<map name="Uniform" >beast.math.distributions.Uniform</map>
+<map name="Exponential" >beast.math.distributions.Exponential</map>
+<map name="LogNormal" >beast.math.distributions.LogNormalDistributionModel</map>
+<map name="Normal" >beast.math.distributions.Normal</map>
+<map name="Beta" >beast.math.distributions.Beta</map>
+<map name="Gamma" >beast.math.distributions.Gamma</map>
+<map name="LaplaceDistribution" >beast.math.distributions.LaplaceDistribution</map>
+<map name="prior" >beast.math.distributions.Prior</map>
+<map name="InverseGamma" >beast.math.distributions.InverseGamma</map>
+<map name="OneOnX" >beast.math.distributions.OneOnX</map>
+
+<run id="mcmc" spec="MCMC" chainLength="10000000">
+    <state id="state" spec="State" storeEvery="5000">
+        <tree id="Tree.t:sequences_S_ex_lab_cells_2026_05_27v5" spec="beast.evolution.tree.Tree" name="stateNode">
+            <trait id="dateTrait.t:sequences_S_ex_lab_cells_2026_05_27v5" spec="beast.evolution.tree.TraitSet" traitname="date-backward" value="MN258223.1|Homo_sapiens|Argentina|1996-12-11|21.957563=21.957563,MN258228.1|Homo_sapiens|Argentina|2018-05-21|0.517454=0.517454,MN258239.1|Homo_sapiens|Argentina|2018-11-10|0.043806=0.043806,MN258250.1|Homo_sapiens|Argentina|2018-11-26|0.000000=0.000000,MN850083.1|Homo_sapiens|Argentina|2014-07-02|4.402464=4.402464,MN850084.1|Homo_sapiens|Argentina|2014-07-02|4.402464=4.402464,MN850087.1|Homo_sapiens|Argentina|2017-07-02|1.401780=1.401780">
+                <taxa id="TaxonSet.sequences_S_ex_lab_cells_2026_05_27v5" spec="TaxonSet">
+                    <alignment idref="sequences_S_ex_lab_cells_2026_05_27v5"/>
+                </taxa>
+            </trait>
+            <taxonset idref="TaxonSet.sequences_S_ex_lab_cells_2026_05_27v5"/>
+        </tree>
+        <parameter id="clockRate.c:sequences_S_ex_lab_cells_2026_05_27v5" spec="parameter.RealParameter" name="stateNode">0.001</parameter>
+        <parameter id="kappa.s:sequences_S_ex_lab_cells_2026_05_27v5" spec="parameter.RealParameter" lower="0.0" name="stateNode">2.0</parameter>
+        <parameter id="popSize.t:sequences_S_ex_lab_cells_2026_05_27v5" spec="parameter.RealParameter" name="stateNode">0.3</parameter>
+        <parameter id="freqParameter.s:sequences_S_ex_lab_cells_2026_05_27v5" spec="parameter.RealParameter" dimension="4" lower="0.0" name="stateNode" upper="1.0">0.25</parameter>
+    </state>
+    <init id="RandomTree.t:sequences_S_ex_lab_cells_2026_05_27v5" spec="beast.evolution.tree.RandomTree" estimate="false" initial="@Tree.t:sequences_S_ex_lab_cells_2026_05_27v5" taxa="@sequences_S_ex_lab_cells_2026_05_27v5">
+        <populationModel id="ConstantPopulation0.t:sequences_S_ex_lab_cells_2026_05_27v5" spec="ConstantPopulation">
+            <parameter id="randomPopSize.t:sequences_S_ex_lab_cells_2026_05_27v5" spec="parameter.RealParameter" name="popSize">1.0</parameter>
+        </populationModel>
+    </init>
+    <distribution id="posterior" spec="util.CompoundDistribution">
+        <distribution id="prior" spec="util.CompoundDistribution">
+            <distribution id="CoalescentConstant.t:sequences_S_ex_lab_cells_2026_05_27v5" spec="Coalescent">
+                <populationModel id="ConstantPopulation.t:sequences_S_ex_lab_cells_2026_05_27v5" spec="ConstantPopulation" popSize="@popSize.t:sequences_S_ex_lab_cells_2026_05_27v5"/>
+                <treeIntervals id="TreeIntervals.t:sequences_S_ex_lab_cells_2026_05_27v5" spec="TreeIntervals" tree="@Tree.t:sequences_S_ex_lab_cells_2026_05_27v5"/>
+            </distribution>
+            <prior id="ClockPrior.c:sequences_S_ex_lab_cells_2026_05_27v5" name="distribution" x="@clockRate.c:sequences_S_ex_lab_cells_2026_05_27v5">
+                <Uniform id="Uniform.0" lower="1.0E-12" name="distr" upper="0.01"/>
+            </prior>
+            <prior id="FrequenciesPrior.s:sequences_S_ex_lab_cells_2026_05_27v5" name="distribution" x="@freqParameter.s:sequences_S_ex_lab_cells_2026_05_27v5">
+                <Uniform id="Uniform.3" name="distr"/>
+            </prior>
+            <prior id="KappaPrior.s:sequences_S_ex_lab_cells_2026_05_27v5" name="distribution" x="@kappa.s:sequences_S_ex_lab_cells_2026_05_27v5">
+                <LogNormal id="LogNormalDistributionModel.0" name="distr">
+                    <parameter id="RealParameter.1" spec="parameter.RealParameter" estimate="false" name="M">1.0</parameter>
+                    <parameter id="RealParameter.2" spec="parameter.RealParameter" estimate="false" name="S">1.25</parameter>
+                </LogNormal>
+            </prior>
+            <prior id="PopSizePrior.t:sequences_S_ex_lab_cells_2026_05_27v5" name="distribution" x="@popSize.t:sequences_S_ex_lab_cells_2026_05_27v5">
+                <OneOnX id="OneOnX.1" name="distr"/>
+            </prior>
+            <distribution id="Argentina2014.prior" spec="beast.math.distributions.MRCAPrior" tree="@Tree.t:sequences_S_ex_lab_cells_2026_05_27v5">
+                <taxonset id="Argentina2014" spec="TaxonSet">
+                    <taxon id="MN850083.1|Homo_sapiens|Argentina|2014-07-02|4.402464" spec="Taxon"/>
+                    <taxon id="MN850084.1|Homo_sapiens|Argentina|2014-07-02|4.402464" spec="Taxon"/>
+                    <taxon id="MN850087.1|Homo_sapiens|Argentina|2017-07-02|1.401780" spec="Taxon"/>
+                </taxonset>
+            </distribution>
+            <distribution id="Epuyen20181.prior" spec="beast.math.distributions.MRCAPrior" tree="@Tree.t:sequences_S_ex_lab_cells_2026_05_27v5">
+                <taxonset id="Epuyen20181" spec="TaxonSet">
+                    <taxon id="MN258228.1|Homo_sapiens|Argentina|2018-05-21|0.517454" spec="Taxon"/>
+                    <taxon id="MN258239.1|Homo_sapiens|Argentina|2018-11-10|0.043806" spec="Taxon"/>
+                    <taxon id="MN258250.1|Homo_sapiens|Argentina|2018-11-26|0.000000" spec="Taxon"/>
+                </taxonset>
+            </distribution>
+            <distribution id="MN850083.1.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:sequences_S_ex_lab_cells_2026_05_27v5">
+                <taxonset id="MN850083.1" spec="TaxonSet">
+                    <taxon idref="MN850083.1|Homo_sapiens|Argentina|2014-07-02|4.402464"/>
+                </taxonset>
+                <Uniform id="Uniform.4" lower="3.9042" name="distr" upper="4.9008"/>
+            </distribution>
+            <distribution id="MN850084.1.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:sequences_S_ex_lab_cells_2026_05_27v5">
+                <taxonset id="MN850084.1" spec="TaxonSet">
+                    <taxon idref="MN850084.1|Homo_sapiens|Argentina|2014-07-02|4.402464"/>
+                </taxonset>
+                <Uniform id="Uniform.5" lower="3.9042" name="distr" upper="4.9008"/>
+            </distribution>
+            <distribution id="MN850087.1.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:sequences_S_ex_lab_cells_2026_05_27v5">
+                <taxonset id="MN850087.1" spec="TaxonSet">
+                    <taxon idref="MN850087.1|Homo_sapiens|Argentina|2017-07-02|1.401780"/>
+                </taxonset>
+                <Uniform id="Uniform.6" lower="0.9035" name="distr" upper="1.9001"/>
+            </distribution>
+        </distribution>
+        <distribution id="likelihood" spec="util.CompoundDistribution" useThreads="true">
+            <distribution id="treeLikelihood.sequences_S_ex_lab_cells_2026_05_27v5" spec="ThreadedTreeLikelihood" data="@sequences_S_ex_lab_cells_2026_05_27v5" tree="@Tree.t:sequences_S_ex_lab_cells_2026_05_27v5">
+                <siteModel id="SiteModel.s:sequences_S_ex_lab_cells_2026_05_27v5" spec="SiteModel">
+                    <parameter id="mutationRate.s:sequences_S_ex_lab_cells_2026_05_27v5" spec="parameter.RealParameter" estimate="false" name="mutationRate">1.0</parameter>
+                    <parameter id="gammaShape.s:sequences_S_ex_lab_cells_2026_05_27v5" spec="parameter.RealParameter" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:sequences_S_ex_lab_cells_2026_05_27v5" spec="parameter.RealParameter" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                    <substModel id="hky.s:sequences_S_ex_lab_cells_2026_05_27v5" spec="HKY" kappa="@kappa.s:sequences_S_ex_lab_cells_2026_05_27v5">
+                        <frequencies id="estimatedFreqs.s:sequences_S_ex_lab_cells_2026_05_27v5" spec="Frequencies" frequencies="@freqParameter.s:sequences_S_ex_lab_cells_2026_05_27v5"/>
+                    </substModel>
+                </siteModel>
+                <branchRateModel id="StrictClock.c:sequences_S_ex_lab_cells_2026_05_27v5" spec="beast.evolution.branchratemodel.StrictClockModel" clock.rate="@clockRate.c:sequences_S_ex_lab_cells_2026_05_27v5"/>
+            </distribution>
+        </distribution>
+    </distribution>
+    <operator id="StrictClockRateScaler.c:sequences_S_ex_lab_cells_2026_05_27v5" spec="ScaleOperator" parameter="@clockRate.c:sequences_S_ex_lab_cells_2026_05_27v5" weight="3.0"/>
+    <operator id="strictClockUpDownOperator.c:sequences_S_ex_lab_cells_2026_05_27v5" spec="UpDownOperator" scaleFactor="0.75" weight="3.0">
+        <up idref="clockRate.c:sequences_S_ex_lab_cells_2026_05_27v5"/>
+        <down idref="Tree.t:sequences_S_ex_lab_cells_2026_05_27v5"/>
+    </operator>
+    <operator id="KappaScaler.s:sequences_S_ex_lab_cells_2026_05_27v5" spec="ScaleOperator" parameter="@kappa.s:sequences_S_ex_lab_cells_2026_05_27v5" scaleFactor="0.5" weight="0.1"/>
+    <operator id="tipDatesSampler.MN850083.1" spec="TipDatesRandomWalker" taxonset="@MN850083.1" tree="@Tree.t:sequences_S_ex_lab_cells_2026_05_27v5" weight="1.0" windowSize="1.0"/>
+    <operator id="tipDatesSampler.MN850084.1" spec="TipDatesRandomWalker" taxonset="@MN850084.1" tree="@Tree.t:sequences_S_ex_lab_cells_2026_05_27v5" weight="1.0" windowSize="1.0"/>
+    <operator id="tipDatesSampler.MN850087.1" spec="TipDatesRandomWalker" taxonset="@MN850087.1" tree="@Tree.t:sequences_S_ex_lab_cells_2026_05_27v5" weight="1.0" windowSize="1.0"/>
+    <operator id="CoalescentConstantTreeScaler.t:sequences_S_ex_lab_cells_2026_05_27v5" spec="ScaleOperator" scaleFactor="0.5" tree="@Tree.t:sequences_S_ex_lab_cells_2026_05_27v5" weight="3.0"/>
+    <operator id="CoalescentConstantTreeRootScaler.t:sequences_S_ex_lab_cells_2026_05_27v5" spec="ScaleOperator" rootOnly="true" scaleFactor="0.5" tree="@Tree.t:sequences_S_ex_lab_cells_2026_05_27v5" weight="3.0"/>
+    <operator id="CoalescentConstantUniformOperator.t:sequences_S_ex_lab_cells_2026_05_27v5" spec="Uniform" tree="@Tree.t:sequences_S_ex_lab_cells_2026_05_27v5" weight="30.0"/>
+    <operator id="CoalescentConstantSubtreeSlide.t:sequences_S_ex_lab_cells_2026_05_27v5" spec="SubtreeSlide" tree="@Tree.t:sequences_S_ex_lab_cells_2026_05_27v5" weight="15.0"/>
+    <operator id="CoalescentConstantNarrow.t:sequences_S_ex_lab_cells_2026_05_27v5" spec="Exchange" tree="@Tree.t:sequences_S_ex_lab_cells_2026_05_27v5" weight="15.0"/>
+    <operator id="CoalescentConstantWide.t:sequences_S_ex_lab_cells_2026_05_27v5" spec="Exchange" isNarrow="false" tree="@Tree.t:sequences_S_ex_lab_cells_2026_05_27v5" weight="3.0"/>
+    <operator id="CoalescentConstantWilsonBalding.t:sequences_S_ex_lab_cells_2026_05_27v5" spec="WilsonBalding" tree="@Tree.t:sequences_S_ex_lab_cells_2026_05_27v5" weight="3.0"/>
+    <operator id="PopSizeScaler.t:sequences_S_ex_lab_cells_2026_05_27v5" spec="ScaleOperator" parameter="@popSize.t:sequences_S_ex_lab_cells_2026_05_27v5" weight="3.0"/>
+    <operator id="FrequenciesExchanger.s:sequences_S_ex_lab_cells_2026_05_27v5" spec="DeltaExchangeOperator" delta="0.01" weight="0.1">
+        <parameter idref="freqParameter.s:sequences_S_ex_lab_cells_2026_05_27v5"/>
+    </operator>
+    <logger id="tracelog" spec="Logger" fileName="$(filebase)_$(seed).log" logEvery="1000" model="@posterior" sanitiseHeaders="true" sort="smart">
+        <log idref="posterior"/>
+        <log idref="likelihood"/>
+        <log idref="prior"/>
+        <log idref="treeLikelihood.sequences_S_ex_lab_cells_2026_05_27v5"/>
+        <log id="TreeHeight.t:sequences_S_ex_lab_cells_2026_05_27v5" spec="beast.evolution.tree.TreeHeightLogger" tree="@Tree.t:sequences_S_ex_lab_cells_2026_05_27v5"/>
+        <log idref="clockRate.c:sequences_S_ex_lab_cells_2026_05_27v5"/>
+        <log idref="kappa.s:sequences_S_ex_lab_cells_2026_05_27v5"/>
+        <log idref="Epuyen20181.prior"/>
+        <log idref="Argentina2014.prior"/>
+        <log idref="MN850083.1.prior"/>
+        <log idref="MN850084.1.prior"/>
+        <log idref="MN850087.1.prior"/>
+        <log idref="popSize.t:sequences_S_ex_lab_cells_2026_05_27v5"/>
+        <log idref="CoalescentConstant.t:sequences_S_ex_lab_cells_2026_05_27v5"/>
+        <log idref="freqParameter.s:sequences_S_ex_lab_cells_2026_05_27v5"/>
+    </logger>
+    <logger id="screenlog" spec="Logger" logEvery="1000">
+        <log idref="posterior"/>
+        <log idref="likelihood"/>
+        <log idref="prior"/>
+    </logger>
+    <logger id="treelog.t:sequences_S_ex_lab_cells_2026_05_27v5" spec="Logger" fileName="$(filebase)_$(seed).trees" logEvery="1000" mode="tree">
+        <log id="TreeWithMetaDataLogger.t:sequences_S_ex_lab_cells_2026_05_27v5" spec="beast.evolution.tree.TreeWithMetaDataLogger" tree="@Tree.t:sequences_S_ex_lab_cells_2026_05_27v5"/>
+    </logger>
+    <operatorschedule id="OperatorSchedule" spec="OperatorSchedule"/>
+</run>
+</beast>
