@@ -15,7 +15,7 @@ This repository contains the metadata, files and scripts for running multiple an
     - [Output files](ancestral_reconstruction/iqtree_output) can be used to generate [reconstructed ancestor sequences](ancestral_reconstruction/ancestral_sequences) using this [script](ancestral_reconstruction/scripts)
     - These reconstructed sequences are aligned against reference sequence to get [aligned ancestral sequences](ancestral_reconstruction/ancestral_sequences_aligned)
     - The [script](ancestral_reconstruction/scripts) gives the final list of [mutations](ancestral_reconstruction/mutations_list)
-- [Beast analysis](beat): Contains log files and summarised MCC from BEAST molecular dating analysis.
+- [Beast analysis](beast): Contains xml files for BEAST2 molecular dating analysis.
 - [PoW](PoW): Contains files and [scripts](PoW/scripts) for running the PoW model
     - [Rate posterior distributions](PoW/Rate_posterior_distributions): For getting posteriors of clockRate
     - [Ultrametric trees](PoW/ultrametric_trees)
