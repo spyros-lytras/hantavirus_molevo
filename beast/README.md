@@ -1,4 +1,4 @@
-BEAST2 XML FILES
+# BEAST2 XML FILES
 
 This directory contains the BEAST2 XML files used for the analyses of the
 S, M, and L genomic segments.
@@ -13,10 +13,9 @@ three segments:
 Each segment-specific folder contains all BEAST2 XML files used for the
 respective analyses.
 
-The analyses were performed using BEAST2 v2.6.7. 
+The analyses were performed using BEAST2 v2.6.7.
 
-FILE NAMING
------------
+## FILE NAMING
 
 Files follow the naming convention:
 
@@ -44,7 +43,6 @@ For example:
 
 corresponds to the S segment, Clades 1-3 dataset, and linkageInformed scenario.
 
-
 The datasets correspond to the following clade compositions:
 
     Clade1and3        Clades 1 and 3
@@ -53,21 +51,22 @@ The datasets correspond to the following clade compositions:
     Clade1-4          Clades 1-4
     inclUnclassified  Clades 1-4 including unclassified sequences
 
+## ANALYSIS SCENARIOS
 
-ANALYSIS SCENARIOS
-------------------
+### allObserved
 
-allObserved
-    Analyses using all available observed sequences.
+Analyses using all available observed sequences.
 
-TwoPerOutbreak
-    Analyses using two sequences per outbreak.
+### TwoPerOutbreak
 
-linkageInformed
-    Analyses incorporating linkage-informed sequences.
+Analyses using two sequences per outbreak.
 
+### linkageInformed
 
-MCMC RANDOM SEEDS
------------------
+Analyses incorporating linkage-informed sequences.
 
-The random number seeds used for each MCMC chain are provided in Table BEAST_Segment_Dataset_Scenario_Seed_XML-filename_for_GitHub.csv.
+## MCMC RANDOM SEEDS
+
+The random number seeds used for each MCMC chain are provided in:
+
+    Table BEAST_Segment_Dataset_Scenario_Seed_XML-filename_for_GitHub.csv
