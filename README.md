@@ -16,7 +16,7 @@ This repository contains the metadata, files and scripts for running multiple an
     - These reconstructed sequences are aligned against reference sequence to get [aligned ancestral sequences](ancestral_reconstruction/ancestral_sequences_aligned)
     - The [script](ancestral_reconstruction/scripts) gives the final list of [mutations](ancestral_reconstruction/mutations_list)
 - [Beast analysis](beast): Contains BEAST2 XML files and the random number seeds used to run the molecular dating analyses.
-- [BETS] (https://github.com/spyros-lytras/hantavirus_molevo/tree/main/BETS): Contains BEAST XMLs for running BETS analysis on strict clock and relaxed clock datasets, including/excluding starting tree.
+- [BETS](https://github.com/spyros-lytras/hantavirus_molevo/tree/main/BETS): Contains BEAST XMLs for running BETS analysis on strict clock and relaxed clock datasets, including/excluding starting tree.
 - [PoW](PoW): Contains files and [scripts](PoW/scripts) for running the PoW model
     - [Rate posterior distributions](PoW/Rate_posterior_distributions): For getting posteriors of clockRate
     - [Ultrametric trees](PoW/ultrametric_trees)
