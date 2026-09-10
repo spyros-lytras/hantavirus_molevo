@@ -20,10 +20,12 @@ This repository contains the metadata, files and scripts for running multiple an
 - [PoW](PoW): Contains files and [scripts](PoW/scripts) for running the PoW model
     - [Rate posterior distributions](PoW/Rate_posterior_distributions): For getting posteriors of clockRate
     - [Ultrametric trees](PoW/ultrametric_trees)
+    - [Ultrametric tree XMLs](https://github.com/spyros-lytras/hantavirus_molevo/tree/main/PoW/XML_ultrametric_runs)
     - Script output:
         - [Recreated trees](PoW/recreated_trees)
-        - [Transformed trees](PoW_transformed_trees): Contains PoW transformed tree for each segment and the summarised MCC trees
-
+        - [Transformed trees](https://github.com/spyros-lytras/hantavirus_molevo/tree/main/PoW/PoW_transformed_trees): Contains PoW transformed tree for each segment
+        - [Transformed MCC trees](https://github.com/spyros-lytras/hantavirus_molevo/tree/main/PoW/PoW_transformed_MCC_trees): Contains PoW transformed summarised MCC trees
+ 
 - [iSNV analysis](isnv_analysis)
     -From SRA, get bam files
       PP_006XDHK.5, BioSample ID SAMN60423882;
