@@ -1,5 +1,7 @@
-# Hantavirus-clockrate
-This repository contains the metadata, files and scripts for running multiple analysis for *Molecular evolution of Andes virus lineages leading to recent human outbreaks*.
+# Molecular evolution of Andes virus lineages leading to recent human outbreaks
+
+Online supplementary data for Sharma/Översti *et al.* (2026) *Molecular evolution of Andes virus lineages leading to recent human outbreaks*.
+
 
 ## Contents
 
@@ -46,7 +48,7 @@ This repository contains the metadata, files and scripts for running multiple an
 
       python ~/shiver/bin/tools/AnalysePileup.py XDHK_M.pileup ../MT956619.fasta > XDHK_M_Basefreqs.csv
 
-- [Selection analysis](selection_analysis): Contains all scripts, documentation and results for the selection analysis.    
+- Detailed selection analysis methods and interactive dashboards can be accessed at: https://github.com/aglucaci/hantavirus_selection_analysis
       
 ## Softwares used
 
